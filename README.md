@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andrian Raihannudin</h1>
 <h3 align="center">Junior Software developer</h3>
 
+<h2>About Me</h2>
+
 - 🔭 I’m currently study on [SMKN 1 Kab.Tangerang](https://www.google.com/maps/place/Vocational+And+Technical+School+1+Kabupaten+Tangerang/@-6.2547457,106.5057503,17z/data=!3m1!4b1!4m5!3m4!1s0x2e420713a68ca0b1:0x9801279461c189ce!8m2!3d-6.254751!4d106.507939)
 
 - 🌱 I’m currently learning **Restfull-API with Ktor**
