@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Andrian Raihannudin</h1>
-<h3 align="center">Junior Software developer</h3>
+<h1">Hi 👋, I'm Andrian Raihannudin</h1>
+<h3>Junior Software developer</h3>
 
 <h2>About Me</h2>
 
