@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Android and Restfull-API with Kotlin**
 
+- 👨‍💻 my learning experience :  **Python : [coursera](https://coursera.org/share/60b7b091295b220608322f9bc8198124)** ,  **Andorid : [Udemy](http://ude.my/UC-d192ae02-e4df-4a75-bdab-8a266c464175)** ,  **Rest-API with Ktor : Udemy**
+
 - 👨‍💻 All of my projects are available at [here](https://github.com/Reihannudin)
 
 - ⚡ Fun fact **I always hold the laptop every day**
