@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently study on [SMKN 1 Kab.Tangerang](https://www.google.com/maps/place/Vocational+And+Technical+School+1+Kabupaten+Tangerang/@-6.2547457,106.5057503,17z/data=!3m1!4b1!4m5!3m4!1s0x2e420713a68ca0b1:0x9801279461c189ce!8m2!3d-6.254751!4d106.507939)
 
-- 🌱 I’m currently learning **Restfull-API with Ktor**
+- 🌱 I’m currently learning **Website**
 
 - 💻 my learning experience :  **Python : [coursera](https://coursera.org/share/60b7b091295b220608322f9bc8198124)** ,  **Andorid : [Udemy](http://ude.my/UC-d192ae02-e4df-4a75-bdab-8a266c464175)** 
 
